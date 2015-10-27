@@ -4,7 +4,7 @@
 
 Once Presence Insights has been fully set up it can be useful to see what data it is collecting. The best way to do this is to set up a subscription in Presence Insights and use that subscription to display all the events, such as a device entering, exiting, or dwelling in a zone, that it collects.
 
-The first step in setting up a subscription is to have an endpoint for that subscription. This guide will show you how to use Node.js as that enpoint and how to have the console display every Presence Insights event.
+The first step in setting up a subscription is to have an endpoint for that subscription. This guide will show you how to use Node.js as that endpoint and how to have the console display every Presence Insights event.
 
 ## Contents
 
@@ -18,11 +18,11 @@ This project contains the following files:
 
 ## Running this code
 
-Use the following guide to set up a Node.js app on Bluemix: [Setting up a Node.js app](https://www.stage1.ng.bluemix.net/docs/starters/nodejs/index.html)
+Use the following guide to set up a Node.js app on Bluemix: [Setting up a Node.js app](https://www.ng.bluemix.net/docs/starters/nodejs/index.html)
 
 After this program has been set up on Bluemix follow these steps to finish the setup:
 
-1. Downlaod the Node.js code that Bluemix generated for your new Node.js app
+1. Download the Node.js code that Bluemix generated for your new Node.js app
 2. Replace the manifest.yml file from this project with the manifest.yml file from Bluemix
 3. Open a command prompt and navigate to the folder ony your machine that this code is in
 4. Type `cf push` and wait for the setup to complete
