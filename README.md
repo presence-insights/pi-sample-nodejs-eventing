@@ -18,7 +18,7 @@ This project contains the following files:
 
 ## Running this code
 
-Use the following guide to set up a Node.js app on Bluemix: [Setting up a Node.js app](https://www.ng.bluemix.net/docs/starters/nodejs/index.html)
+Use the following guide to set up a Node.js app on Bluemix: [Setting up a Node.js app](https://console.ng.bluemix.net/docs/cfapps/starter_app_usage.html)
 
 After this program has been set up on Bluemix follow these steps to finish the setup:
 
